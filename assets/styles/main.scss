@@ -1,0 +1,49 @@
+*{
+  font-family: "Poppins",sans-serif;
+}
+
+//titilos principales
+.title-main{
+  font-size: 4rem;
+  font-weight: 700;
+  color: #035928;
+  margin-bottom: 1rem;
+ text-align: center;
+
+@media (max-width: 60rem){
+  font-size: 4rem;
+}
+
+@media (max-width: 37.5rem) {
+  font-size: 2rem;
+}
+}
+
+//descripciones
+.description-main{
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #2a2a2a;
+  margin: 1rem 0;
+  text-align: center;
+
+  @media (max-width: 960px) {
+    font-size: 1.25rem;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 1.1rem;
+  }
+}
+
+//textos
+
+.text-default {
+  font-size: 1rem;
+  color: #2a2a2a;
+  line-height: 1.6;
+
+    @media (max-width: 600px) {
+    font-size: 0.95rem;
+  }
+}

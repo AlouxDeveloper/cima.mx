@@ -1,0 +1,406 @@
+{
+  "nav": {
+    "inicio": "Inicio",
+    "nosotros": "Nosotros",
+    "iniciativas": "Iniciativas",
+    "recursos": "Recursos",
+    "transparencia": "Transparencia",
+    "donar": "Donar"
+  },
+  "footer": {
+    "derechos": "© 2025 CIMA A.C. · Atzitzintla, Puebla",
+    "siguenos": "Síguenos en redes"
+  },
+
+  "nosotros": {
+     "hero":{
+      "titulo":"Conoce Nuestra Historia",
+      "subtitulo":"Construyendo un futuro mejor a través de la innovación, solidaridad y compromiso social"
+    },
+    "mision": {
+      "titulo": "Misión",
+      "texto": "Contribuir al desarrollo integral de comunidades aledañas al Parque Nacional Pico de Orizaba, fortaleciendo su resiliencia social, económica y ambiental."
+    },
+    "vision": {
+      "titulo": "Visión",
+      "descripcion": "Aspiramos a ser un referente de transformación comunitaria, inclusiva y sostenible.",
+      "punto1": "Conservar y restaurar el entorno del Parque Nacional Pico de Orizaba.",
+      "punto2": "Garantizar servicios básicos y reducir marginación y rezago social.",
+      "punto3": "Elevar la calidad de la educación y la salud.",
+      "punto4": "Impulsar el desarrollo económico local y solidario que genere empleo digno.",
+      "punto5": "Canalizar la fuerza y el liderazgo de las juventudes como motor de transformación.",
+      "punto6": "Ejercer buena gobernanza y transparencia en las finanzas, inspirando confianza entre donantes y aliados."
+    },
+    "valores": {
+      "titulo": "Valores",
+      "innovacion": "Innovación",
+      "solidaridad": "Solidaridad",
+      "sostenibilidad": "Sostenibilidad",
+      "juventud": "Juventud",
+      "transparencia": "Transparencia",
+      "inclusion": "Inclusión"
+    },
+    "ods": {
+      "titulo": "Agenda 2030",
+      "punto1": "ODS 3: Salud y Bienestar",
+      "descripcion1": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+      "punto2": "ODS 4: Educación de Calidad",
+      "descripcion2": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida.",
+      "punto3": "ODS 8: Trabajo Decente y Crecimiento Económico",
+      "descripcion3": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+      "punto4": "ODS 10: Reducción de las Desigualdades",
+      "descripcion4": "Reducir la desigualdad en y entre los países.",
+      "punto5": "ODS 11: Ciudades y Comunidades Sostenibles",
+      "descripcion5": "Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+      "punto6": "ODS 13: Acción por el Clima",
+      "descripcion6": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+      "punto7": "ODS 15: Vida de Ecosistemas Terrestres",
+      "descripcion7": "Gestionar sosteniblemente los bosques, luchar contra la desertificación, detener e invertir la degradación de las tierras y frenar la pérdida de biodiversidad.",
+      "punto8": "ODS 16: Paz, Justicia e Instituciones Sólidas",
+      "descripcion8": "Promover sociedades justas, pacíficas e inclusivas.",
+      "punto9": "ODS 17: Alianzas para Lograr los Objetivos",
+      "descripcion9": "Revitalizar la Alianza Mundial para el Desarrollo Sostenible y fortalecer los medios de implementación."
+    },
+    "miembros": {
+      "presidente": {
+        "titulo": "Presidente",
+        "descripcion": "Responsable de la representación legal y liderazgo estratégico de la organización."
+      },
+      "secretario": {
+        "titulo": "Secretario",
+        "descripcion": "Encargado de la documentación, actas y comunicaciones institucionales."
+      },
+      "tesorero": {
+        "titulo": "Tesorero",
+        "descripcion": "Administra los recursos financieros y la rendición de cuentas."
+      },
+      "operaciones": {
+        "titulo": "Director de Operaciones",
+        "descripcion": "Coordina la ejecución de proyectos y el equipo de trabajo en campo."
+      },
+      "comunicacion": {
+        "titulo": "Director de Comunicación",
+        "descripcion": "Gestiona la identidad institucional, redes sociales y vínculos con medios."
+      },
+      "finanzas": {
+        "titulo": "Director de Finanzas",
+        "descripcion": "Diseña estrategias de sostenibilidad financiera y control presupuestal."
+      }
+    },
+    "equipo": {
+      "titulo": "Equipo",
+      "descripcion": "Nuestro equipo está conformado por personas comprometidas con el bienestar comunitario, la justicia social y la protección ambiental.",
+      "lista": [
+        {
+          "titulo": "Presidente",
+          "descripcion": "Responsable de la representación legal y liderazgo estratégico de la organización."
+        },
+        {
+          "titulo": "Secretario",
+          "descripcion": "Encargado de la documentación, actas y comunicaciones institucionales."
+        },
+        {
+          "titulo": "Tesorero",
+          "descripcion": "Administra los recursos financieros y la rendición de cuentas."
+        },
+        {
+          "titulo": "Director de Operaciones",
+          "descripcion": "Coordina la ejecución de proyectos y el equipo de trabajo en campo."
+        },
+        {
+          "titulo": "Director de Comunicación",
+          "descripcion": "Gestiona la identidad institucional, redes sociales y vínculos con medios."
+        },
+        {
+          "titulo": "Director de Finanzas",
+          "descripcion": "Diseña estrategias de sostenibilidad financiera y control presupuestal."
+        }
+      ]
+    }
+  },
+  "index": {
+    "quienesSomos": {
+      "titulo": "Sobre CIMA",
+      "descripcion": "En CIMA fusionamos creatividad y compromiso para construir soluciones sostenibles a los desafíos más urgentes de nuestra sociedad.",
+      "boton": "Contáctanos"
+    },
+    "aliados": {
+      "titulo": "Nuestros Aliados",
+      "descripcion": "Colaboramos con organizaciones líderes para maximizar nuestro impacto social y ambiental",
+      "lista": [
+        "Colaboración con líderes tecnológicos",
+        "Aliados académicos para investigación",
+        "Alianzas con el sector público"
+      ],
+      "boton": "¿Quieres ser nuestro aliado?"
+    },
+    "iniciativas": {
+      "titulo": "Últimas Iniciativas",
+      "lista": [
+        {
+          "titulo": "Educación Digital",
+          "link": "/iniciativas"
+        },
+        {
+          "titulo": "Sostenibilidad Ambiental",
+          "link": "/iniciativas"
+        },
+        {
+          "titulo": "Innovación Social",
+          "link": "/iniciativas"
+        }
+      ],
+      "verMas": "Ver más"
+    }
+  },
+  "cPreguntas": {
+    "titulo": "Preguntas",
+    "titulo2": "Frecuentes",
+    "descripcion": "Encuentra respuestas rápidas a las preguntas más comunes sobre nuestro trabajo",
+    "masInformacion": "Más información",
+    "faqsLeft": [
+      {
+        "pregunta": "¿Qué tipo de proyectos desarrolla CIMA A.C.?",
+        "respuesta": "Desarrollamos proyectos enfocados en la conservación del medio ambiente, educación, salud, desarrollo económico local y fortalecimiento comunitario."
+      },
+      {
+        "pregunta": "¿Quiénes forman parte del equipo de CIMA A.C.?",
+        "respuesta": "Nuestro equipo está compuesto por profesionales multidisciplinarios comprometidos con el desarrollo social."
+      }
+    ],
+    "faqsRight": [
+      {
+        "pregunta": "¿Cómo puedo participar como voluntario?",
+        "respuesta": "Puedes contactarnos a través de nuestro formulario de voluntariado o asistir a nuestras jornadas de reclutamiento."
+      },
+      {
+        "pregunta": "¿Reciben donaciones?",
+        "respuesta": "Sí, aceptamos donaciones tanto en especie como monetarias para apoyar nuestros proyectos."
+      }
+    ]
+  },
+  "iniciativas": {
+    "titulo": "Nuestras Iniciativas",
+    "subtitulo": "Proyectos que transforman comunidades y protegen nuestro entorno natural",
+    "items": [
+      {
+        "titulo": "Restauración del ecosistema local",
+        "descripcionLarga": "Programa integral de reforestación en el Parque Nacional Pico de Orizaba, enfocado en especies nativas y la restauración de ecosistemas degradados para combatir el cambio climático."
+      },
+      {
+        "titulo": "Guía para el futuro profesional",
+        "descripcionLarga": "Programa de orientación vocacional dirigido a jóvenes de comunidades rurales, proporcionando herramientas para la toma de decisiones académicas y profesionales alineadas con sus intereses y el desarrollo local."
+      },
+      {
+        "titulo": "Atención médica integral",
+        "descripcionLarga": "Jornadas de salud comunitaria que incluyen consultas médicas, campañas de vacunación, educación en salud preventiva y programas de nutrición para mejorar la calidad de vida de las familias."
+      },
+      {
+        "titulo": "Tecnología para el aprendizaje",
+        "descripcionLarga": "Implementación de programas de alfabetización digital y acceso a tecnologías educativas para reducir la brecha digital en comunidades rurales y mejorar las oportunidades educativas."
+      },
+      {
+        "titulo": "Emprendimiento local sostenible",
+        "descripcionLarga": "Programas de capacitación en emprendimiento, microcréditos y desarrollo de cadenas productivas locales para generar empleos dignos y fortalecer la economía comunitaria."
+      },
+      {
+        "titulo": "Protección de la biodiversidad",
+        "descripcionLarga": "Iniciativas de conservación de flora y fauna local, educación ambiental y promoción de prácticas sostenibles para la protección del Parque Nacional Pico de Orizaba."
+      }
+    ],
+    "verMas": "Ver más",
+    "verMenos": "Ver menos",
+    "cta": {
+      "titulo": "¿Quieres participar?",
+      "descripcion": "Únete a nuestras iniciativas y sé parte del cambio que nuestras comunidades necesitan.",
+      "boton": "Contáctanos"
+    }
+  },
+
+  "donaciones": {
+    "titulo": "Haz la Diferencia con tu Donación",
+    "subtitulo": "Tu generosidad nos permite continuar transformando vidas y construyendo un futuro mejor para las comunidades que más lo necesitan. Cada donación cuenta y genera un impacto real.",
+    "descripcion": "Únete a nuestra misión de crear cambios positivos y duraderos. Juntos podemos lograr grandes transformaciones en educación, salud, sostenibilidad y desarrollo comunitario.",
+    "seguridad": {
+      "seguro": "100% Seguro",
+      "deducible": "Deducible de Impuestos",
+      "impacto": "Impacto Inmediato"
+    },
+    "cta": {
+      "titulo": "Tu Ayuda Transforma Vidas",
+      "mensaje1": "Tu donación hace una gran diferencia.",
+      "mensaje2": "Nos permite seguir ayudando a quienes más lo necesitan.",
+      "mensaje3": "¡Juntos podemos lograr grandes cambios!",
+      "boton": "Donar Ahora"
+    },
+    "formulario": {
+      "titulo": "¡Haz tu Donación!",
+      "datos_personales": "1. Datos Personales",
+      "nombre": "Nombre Completo",
+      "correo": "Correo Electrónico",
+      "telefono": "Teléfono",
+      "monto": "2. Selecciona un Monto",
+      "otro_monto": "Otro Monto",
+      "comentario": "3. Comentario",
+      "comentario_placeholder": "Mensaje opcional...",
+      "seguridad_mensaje": "Tus datos están protegidos",
+      "seguridad_descripcion": "Utilizamos encriptación de nivel bancario para proteger tu información.",
+      "cancelar": "Cancelar",
+      "donar": "Donar"
+    },
+    "faq": {
+      "titulo": "Preguntas Frecuentes",
+      "subtitulo": "Resolvemos las dudas más comunes sobre el proceso de donación",
+      "preguntas": {
+        "uso": {
+          "pregunta": "¿Cómo se usa mi donativo?",
+          "respuesta": "Tu donación se destina directamente a nuestros programas de desarrollo comunitario, educación, salud y sostenibilidad ambiental. Mantenemos total transparencia en el uso de los fondos."
+        },
+        "proyectos": {
+          "pregunta": "¿En qué proyectos impacta mi donación?",
+          "respuesta": "Tu contribución apoya programas educativos, campañas de salud comunitaria, proyectos de sostenibilidad ambiental y empoderamiento juvenil en comunidades vulnerables."
+        },
+        "seguridad": {
+          "pregunta": "¿Es seguro donar en línea?",
+          "respuesta": "Sí, utilizamos Stripe, una plataforma de pagos segura con encriptación de nivel bancario. Tus datos están completamente protegidos."
+        },
+        "datos": {
+          "pregunta": "¿Mis datos personales están protegidos?",
+          "respuesta": "Absolutamente. Cumplimos con todas las normativas de protección de datos y nunca compartimos tu información personal con terceros."
+        },
+        "fiscal": {
+          "pregunta": "¿Puedo obtener deducción fiscal?",
+          "respuesta": "Sí, como organización registrada, puedes deducir tu donación de impuestos. Te enviaremos el recibo fiscal correspondiente."
+        },
+        "recibo": {
+          "pregunta": "¿Cuánto tarda en llegar mi recibo?",
+          "respuesta": "Recibirás tu recibo fiscal por correo electrónico dentro de las siguientes 24-48 horas después de tu donación."
+        },
+        "beneficios": {
+          "pregunta": "¿Qué beneficios obtengo como donante?",
+          "respuesta": "Recibirás actualizaciones regulares sobre el impacto de tu donación, invitaciones a eventos especiales y reconocimiento en nuestros informes anuales."
+        },
+        "contacto": {
+          "pregunta": "¿Puedo contactar si tengo dudas?",
+          "respuesta": "Por supuesto. Puedes contactarnos por correo, teléfono o redes sociales. Nuestro equipo estará encantado de resolver todas tus dudas."
+        }
+      }
+    },
+    "errores": {
+      "nombre_requerido": "Has olvidado añadir tu nombre.",
+      "nombre_corto": "El nombre debe tener al menos 4 caracteres.",
+      "correo_requerido": "Has olvidado introducir tu correo electrónico.",
+      "correo_invalido": "El correo electrónico no es válido.",
+      "telefono_requerido": "Has olvidado añadir tu teléfono.",
+      "telefono_invalido": "El teléfono debe tener exactamente 10 dígitos.",
+      "monto_requerido": "Por favor, selecciona o ingresa un monto válido."
+    }
+},
+  "recursos": {
+    "titulo": "Recursos y Noticias",
+    "descripcion": "Mantente informado sobre nuestras últimas actividades, eventos y logros en el desarrollo comunitario",
+    "nav": {
+      "noticias": "Noticias",
+      "eventos": "Eventos"
+    },
+    "etiquetas": {
+      "nuevo": "Nuevo",
+      "proximo": "Próximo",
+      "realizado": "Realizado"
+    },
+    "acciones": {
+      "leer_mas": "Leer más",
+      "leer_menos": "Leer menos",
+      "registrarse": "Registrarse"
+    },
+    "noticias": {
+      "titulo": "Últimas Noticias",
+      "items": {
+        "campana_dental": {
+          "titulo": "Nueva campaña de salud dental",
+          "descripcion_corta": "Lanzamos nuestra nueva campaña para mejorar la salud bucal en comunidades rurales con atención gratuita y educación preventiva.",
+          "descripcion_larga": "La campaña tendrá una duración de 3 meses y visitará 15 comunidades en zonas de difícil acceso. Contaremos con un equipo de 10 dentistas voluntarios y repartiremos más de 5,000 kits de higiene bucal. Este proyecto es posible gracias al apoyo de nuestros socios estratégicos y donantes comprometidos con la salud comunitaria.",
+          "logros": {
+            "ninos": "500 niños atendidos",
+            "kits": "1,000 kits de higiene repartidos",
+            "comunidades": "3 comunidades beneficiadas"
+          }
+        },
+        "taller_voluntarios": {
+          "titulo": "Taller de capacitación para voluntarios",
+          "descripcion_corta": "Capacitación intensiva para nuevos voluntarios que se unirán a nuestros programas sociales este trimestre.",
+          "descripcion_larga": "El taller se realizará durante dos fines de semana consecutivos e incluirá módulos sobre: primeros auxilios básicos, comunicación efectiva con comunidades vulnerables, protocolos de seguridad y ética en el trabajo social. Los participantes recibirán certificación avalada por el Ministerio de Salud y la Universidad Nacional. Cupos limitados, requiere inscripción previa.",
+          "logros": {
+            "voluntarios": "25 nuevos voluntarios capacitados",
+            "certificacion": "Certificación avalada por el Ministerio de Salud"
+          }
+        },
+        "programa_alimentacion": {
+          "titulo": "Resultados del programa de alimentación",
+          "descripcion_corta": "Presentamos los impactantes resultados de nuestro programa de alimentación escolar en zonas rurales.",
+          "descripcion_larga": "Durante el último semestre, nuestro programa ha beneficiado a más de 1,200 niños en 8 escuelas rurales, proporcionando desayunos nutritivos 5 días a la semana. Los resultados muestran una mejora del 30% en el rendimiento escolar y una reducción del 45% en casos de anemia entre los participantes.",
+          "logros": {
+            "ninos": "1,200 niños beneficiados",
+            "rendimiento": "30% mejora en rendimiento escolar",
+            "anemia": "45% reducción en casos de anemia"
+          }
+        }
+      }
+    },
+    "eventos": {
+      "titulo": "Eventos",
+      "proximos": "Próximos",
+      "pasados": "Pasados",
+      "programa": "Programa",
+      "participantes": "participantes",
+      "sin_proximos": "No hay eventos próximos programados",
+      "sin_pasados": "No hay eventos pasados registrados",
+      "items": {
+        "jornada_medica": {
+          "titulo": "Jornada médica comunitaria",
+          "descripcion_corta": "Jornada de atención médica gratuita para la comunidad con especialidades en pediatría, ginecología y medicina general.",
+          "descripcion_larga": "Ofreceremos consultas médicas generales, odontológicas y oftalmológicas completamente gratuitas. Además, realizaremos exámenes básicos de laboratorio (glucosa, hemoglobina, presión arterial) y vacunación según el esquema nacional. La jornada contará con 25 profesionales de la salud y se espera atender a más de 500 personas. No se requiere cita previa, atención por orden de llegada.",
+          "lugar": "Parque Central, Av. Principal #123",
+          "programa": {
+            "apertura": "08:00 - Apertura y registro",
+            "consultas": "09:00 - Consultas médicas generales",
+            "taller": "10:00 - Taller de prevención de enfermedades",
+            "medicamentos": "12:00 - Entrega de medicamentos"
+          }
+        },
+        "conferencia_salud": {
+          "titulo": "Conferencia sobre salud pública",
+          "descripcion_corta": "Conferencia magistral con expertos internacionales en salud pública y políticas sanitarias.",
+          "descripcion_larga": "Contaremos con la participación de 5 expertos internacionales que discutirán sobre los desafíos actuales de la salud pública global, estrategias para mejorar los sistemas de salud en países en desarrollo y el rol de las organizaciones comunitarias. El evento incluirá paneles de discusión, sesiones de preguntas y respuestas, y networking con los expositores. Se otorgarán certificados de participación.",
+          "lugar": "Auditorio Municipal, 5to piso",
+          "programa": {
+            "registro": "09:00 - Registro de participantes",
+            "inauguracion": "10:00 - Inauguración",
+            "panel": "11:00 - Panel: Desafíos en salud global",
+            "talleres": "14:00 - Talleres simultáneos",
+            "clausura": "17:00 - Clausura"
+          }
+        },
+        "feria_emprendimiento": {
+          "titulo": "Feria de emprendimiento social",
+          "descripcion_corta": "Evento anual que reúne a emprendedores sociales con inversionistas y mentores.",
+          "descripcion_larga": "La feria es el punto de encuentro más importante para el emprendimiento social en la región. Este año contaremos con 50 stands de emprendedores, 10 charlas magistrales y rondas de inversión. Los participantes podrán presentar sus proyectos a potenciales inversionistas y recibir mentoría especializada.",
+          "lugar": "Centro de Convenciones"
+        },
+        "campana_vacunacion": {
+          "titulo": "Campaña de vacunación infantil",
+          "descripcion_corta": "Campaña masiva de vacunación para niños menores de 5 años.",
+          "descripcion_larga": "En colaboración con el Ministerio de Salud, llevamos a cabo una jornada de vacunación que cubrió todas las vacunas del esquema nacional para niños en edad preescolar. La campaña alcanzó a más de 800 niños en 3 días y contó con el apoyo de 15 profesionales de salud voluntarios.",
+          "lugar": "Centro de Salud Urbano"
+        }
+      }
+    }
+},
+"transparencia": {
+  "categorias": {
+    "Legal": "Legal",
+    "Financiero": "Financiero",
+    "Informativo": "Informativo"
+  }
+}
+}

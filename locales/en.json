@@ -1,0 +1,419 @@
+{
+  "nav": {
+    "inicio": "Home",
+    "nosotros": "About Us",
+    "iniciativas": "Initiatives",
+    "recursos": "Resources",
+    "transparencia": "Transparency",
+    "donar": "Donate"
+  },
+
+  "footer": {
+    "derechos": "© 2025 CIMA A.C. · Atzitzintla, Puebla",
+    "siguenos": "Follow us on social media"
+  },
+
+  "nosotros": {
+    "hero":{
+      "titulo":"Learn About Our History",
+      "subtitulo":"Building a better future through innovation, solidarity, and social commitment"
+    },
+
+  "mision": {
+    "titulo": "Mission",
+    "texto": "To contribute to the integral development of communities surrounding the Pico de Orizaba National Park by strengthening their social, economic, and environmental resilience."
+  },
+  "vision": {
+    "titulo": "Vision",
+    "descripcion": "We aspire to be a benchmark of inclusive and sustainable community transformation.",
+    "punto1": "Conserve and restore the environment of the Pico de Orizaba National Park.",
+    "punto2": "Guarantee basic services and reduce marginalization and social lag.",
+    "punto3": "Improve the quality of education and healthcare.",
+    "punto4": "Promote local and solidarity-based economic development that creates decent jobs.",
+    "punto5": "Channel the strength and leadership of youth as a driving force for transformation.",
+    "punto6": "Exercise good governance and financial transparency, inspiring trust among donors and partners."
+  },
+  "valores": {
+    "innovacion": "Innovation",
+    "solidaridad": "Solidarity",
+    "sostenibilidad": "Sustainability",
+    "juventud": "Youth",
+    "transparencia": "Transparency",
+    "inclusion": "Inclusion"
+  },
+
+    "ods": {
+      "titulo": "2030 Agenda",
+      "punto1": "SDG 3: Good Health and Well-being",
+      "descripcion1": "Ensure healthy lives and promote well-being for all at all ages.",
+      "punto2": "SDG 4: Quality Education",
+      "descripcion2": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.",
+      "punto3": "SDG 8: Decent Work and Economic Growth",
+      "descripcion3": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all.",
+      "punto4": "SDG 10: Reduced Inequalities",
+      "descripcion4": "Reduce inequality within and among countries.",
+      "punto5": "SDG 11: Sustainable Cities and Communities",
+      "descripcion5": "Make cities and human settlements inclusive, safe, resilient and sustainable.",
+      "punto6": "SDG 13: Climate Action",
+      "descripcion6": "Take urgent action to combat climate change and its impacts.",
+      "punto7": "SDG 15: Life on Land",
+      "descripcion7": "Sustainably manage forests, combat desertification, halt and reverse land degradation and halt biodiversity loss.",
+      "punto8": "SDG 16: Peace, Justice and Strong Institutions",
+      "descripcion8": "Promote just, peaceful and inclusive societies.",
+      "punto9": "SDG 17: Partnerships for the Goals",
+      "descripcion9": "Revitalize the Global Partnership for Sustainable Development and strengthen the means of implementation."
+    },
+    "miembros": {
+      "presidente": {
+        "titulo": "President",
+        "rol":"Executive Leadership",
+        "descripcion": "Responsible for legal representation and strategic leadership of the organization."
+      },
+      "secretario": {
+        "titulo": "Secretary",
+       "rol":"Administration",
+        "descripcion": "In charge of documentation, minutes and institutional communications."
+      },
+      "tesorero": {
+        "titulo": "Treasurer",
+        "rol":"Finance",
+        "descripcion": "Manages financial resources and accountability."
+      },
+      "operaciones": {
+        "titulo": "Operations Director",
+"rol":"Operations",
+        "descripcion": "Coordinates project execution and field work team."
+      },
+      "comunicacion": {
+        "titulo": "Communications Director",
+         "rol":"Communication",
+        "descripcion": "Manages institutional identity, social networks and media relations."
+      },
+      "finanzas": {
+        "titulo": "Finance Director",
+        "rol":"Finance",
+        "descripcion": "Designs financial sustainability strategies and budget control."
+      }
+    },
+    "equipo": {
+      "titulo": "Team",
+      "descripcion": "Our team is made up of people committed to community welfare, social justice and environmental protection.",
+      "lista": [
+        {
+          "titulo": "President",
+          "descripcion": "Responsible for legal representation and strategic leadership of the organization."
+        },
+        {
+          "titulo": "Secretary",
+          "descripcion": "In charge of documentation, minutes and institutional communications."
+        },
+        {
+          "titulo": "Treasurer",
+          "descripcion": "Manages financial resources and accountability."
+        },
+        {
+          "titulo": "Operations Director",
+          "descripcion": "Coordinates project execution and field work team."
+        },
+        {
+          "titulo": "Communications Director",
+          "descripcion": "Manages institutional identity, social networks and media relations."
+        },
+        {
+          "titulo": "Finance Director",
+          "descripcion": "Designs financial sustainability strategies and budget control."
+        }
+      ]
+    }
+  },
+  "index": {
+    "quienesSomos": {
+      "titulo": "About CIMA",
+      "descripcion": "At CIMA we fuse creativity and commitment to build sustainable solutions to the most urgent challenges of our society.",
+      "boton": "Contact us"
+    },
+    "aliados": {
+      "titulo": "Our Partners",
+      "descripcion": "We collaborate with leading organizations to maximize our social and environmental impact",
+      "lista": [
+        "Collaboration with technology leaders",
+        "Academic allies for research",
+        "Partnerships with the public sector"
+      ],
+      "boton": "Want to be our partner?"
+    },
+    "iniciativas": {
+      "titulo": "Latest Initiatives",
+      "lista": [
+        {
+          "titulo": "Digital Education",
+          "link": "/iniciativas"
+        },
+        {
+          "titulo": "Environmental Sustainability",
+          "link": "/iniciativas"
+        },
+        {
+          "titulo": "Social Innovation",
+          "link": "/iniciativas"
+        }
+      ],
+      "verMas": "See more"
+    }
+  },
+  "cPreguntas": {
+    "titulo": "Frequently",
+    "titulo2": "Asked Questions",
+    "descripcion": "Find quick answers to the most common questions about our work",
+    "masInformacion": "More information",
+    "faqsLeft": [
+      {
+        "pregunta": "What type of projects does CIMA A.C. develop?",
+        "respuesta": "We develop projects focused on environmental conservation, education, health, local economic development and community strengthening."
+      },
+      {
+        "pregunta": "Who is part of the CIMA A.C. team?",
+        "respuesta": "Our team is composed of multidisciplinary professionals committed to social development."
+      }
+    ],
+    "faqsRight": [
+      {
+        "pregunta": "How can I participate as a volunteer?",
+        "respuesta": "You can contact us through our volunteer form or attend our recruitment sessions."
+      },
+      {
+        "pregunta": "Do you receive donations?",
+        "respuesta": "Yes, we accept both in-kind and monetary donations to support our projects."
+      }
+    ]
+  },
+  "iniciativas": {
+    "titulo": "Our Initiatives",
+    "subtitulo": "Projects that transform communities and protect our natural environment",
+    "items": [
+      {
+        "titulo": "Reforestation",
+        "descripcionCorta": "Local ecosystem restoration",
+        "descripcionLarga": "Comprehensive reforestation program in Pico de Orizaba National Park, focused on native species and restoration of degraded ecosystems to combat climate change."
+      },
+      {
+        "titulo": "Vocational Guidance",
+        "descripcionCorta": "Guide for professional future",
+        "descripcionLarga": "Vocational guidance program aimed at young people from rural communities, providing tools for academic and professional decision-making aligned with their interests and local development."
+      },
+      {
+        "titulo": "Community Health",
+        "descripcionCorta": "Comprehensive medical care",
+        "descripcionLarga": "Community health campaigns that include medical consultations, vaccination campaigns, preventive health education and nutrition programs to improve families' quality of life."
+      },
+      {
+        "titulo": "Digital Education",
+        "descripcionCorta": "Technology for learning",
+        "descripcionLarga": "Implementation of digital literacy programs and access to educational technologies to reduce the digital divide in rural communities and improve educational opportunities."
+      },
+      {
+        "titulo": "Economic Development",
+        "descripcionCorta": "Sustainable local entrepreneurship",
+        "descripcionLarga": "Entrepreneurship training programs, microcredits and development of local productive chains to generate decent jobs and strengthen the community economy."
+      },
+      {
+        "titulo": "Environmental Conservation",
+        "descripcionCorta": "Biodiversity protection",
+        "descripcionLarga": "Local flora and fauna conservation initiatives, environmental education and promotion of sustainable practices for the protection of Pico de Orizaba National Park."
+      }
+    ],
+    "verMas": "See more",
+    "verMenos": "See less",
+    "cta": {
+      "titulo": "Want to participate?",
+      "descripcion": "Join our initiatives and be part of the change our communities need.",
+      "boton": "Contact us"
+    }
+  },
+  "donaciones": {
+    "titulo": "Make a Difference with Your Donation",
+    "subtitulo": "Your generosity allows us to continue transforming lives and building a better future for the communities that need it most. Every donation counts and generates real impact.",
+    "descripcion": "Join our mission to create positive and lasting changes. Together we can achieve great transformations in education, health, sustainability and community development.",
+    "seguridad": {
+      "seguro": "100% Secure",
+      "deducible": "Tax Deductible",
+      "impacto": "Immediate Impact"
+    },
+    "cta": {
+      "titulo": "Your Help Transforms Lives",
+      "mensaje1": "Your donation makes a big difference.",
+      "mensaje2": "It allows us to continue helping those who need it most.",
+      "mensaje3": "Together we can achieve great changes!",
+      "boton": "Donate Now"
+    },
+    "formulario": {
+      "titulo": "Make Your Donation!",
+      "datos_personales": "1. Personal Information",
+      "nombre": "Full Name",
+      "correo": "Email Address",
+      "telefono": "Phone Number",
+      "monto": "2. Select an Amount",
+      "otro_monto": "Other Amount",
+      "comentario": "3. Comment",
+      "comentario_placeholder": "Optional message...",
+      "seguridad_mensaje": "Your data is protected",
+      "seguridad_descripcion": "We use bank-level encryption to protect your information.",
+      "cancelar": "Cancel",
+      "donar": "Donate"
+    },
+    "faq": {
+      "titulo": "Frequently Asked Questions",
+      "subtitulo": "We resolve the most common questions about the donation process",
+      "preguntas": {
+        "uso": {
+          "pregunta": "How is my donation used?",
+          "respuesta": "Your donation goes directly to our community development, education, health and environmental sustainability programs. We maintain complete transparency in the use of funds."
+        },
+        "proyectos": {
+          "pregunta": "What projects does my donation impact?",
+          "respuesta": "Your contribution supports educational programs, community health campaigns, environmental sustainability projects and youth empowerment in vulnerable communities."
+        },
+        "seguridad": {
+          "pregunta": "Is it safe to donate online?",
+          "respuesta": "Yes, we use Stripe, a secure payment platform with bank-level encryption. Your data is completely protected."
+        },
+        "datos": {
+          "pregunta": "Is my personal data protected?",
+          "respuesta": "Absolutely. We comply with all data protection regulations and never share your personal information with third parties."
+        },
+        "fiscal": {
+          "pregunta": "Can I get a tax deduction?",
+          "respuesta": "Yes, as a registered organization, you can deduct your donation from taxes. We will send you the corresponding tax receipt."
+        },
+        "recibo": {
+          "pregunta": "How long does it take to receive my receipt?",
+          "respuesta": "You will receive your tax receipt by email within 24-48 hours after your donation."
+        },
+        "beneficios": {
+          "pregunta": "What benefits do I get as a donor?",
+          "respuesta": "You will receive regular updates on the impact of your donation, invitations to special events and recognition in our annual reports."
+        },
+        "contacto": {
+          "pregunta": "Can I contact someone if I have questions?",
+          "respuesta": "Of course. You can contact us by email, phone or social media. Our team will be happy to resolve all your questions."
+        }
+      }
+    },
+    "errores": {
+      "nombre_requerido": "You forgot to add your name.",
+      "nombre_corto": "Name must be at least 4 characters long.",
+      "correo_requerido": "You forgot to enter your email address.",
+      "correo_invalido": "The email address is not valid.",
+      "telefono_requerido": "You forgot to add your phone number.",
+      "telefono_invalido": "Phone number must be exactly 10 digits.",
+      "monto_requerido": "Please select or enter a valid amount."
+    }
+  },
+  "recursos": {
+    "titulo": "Resources and News",
+    "descripcion": "Stay informed about our latest activities, events and achievements in community development",
+    "nav": {
+      "noticias": "News",
+      "eventos": "Events"
+    },
+    "etiquetas": {
+      "nuevo": "New",
+      "proximo": "Upcoming",
+      "realizado": "Completed"
+    },
+    "acciones": {
+      "leer_mas": "Read more",
+      "leer_menos": "Read less",
+      "registrarse": "Register"
+    },
+    "noticias": {
+      "titulo": "Latest News",
+      "items": {
+        "campana_dental": {
+          "titulo": "New dental health campaign",
+          "descripcion_corta": "We launch our new campaign to improve oral health in rural communities with free care and preventive education.",
+          "descripcion_larga": "The campaign will last 3 months and visit 15 communities in hard-to-reach areas. We will have a team of 10 volunteer dentists and distribute more than 5,000 oral hygiene kits. This project is possible thanks to the support of our strategic partners and donors committed to community health.",
+          "logros": {
+            "ninos": "500 children served",
+            "kits": "1,000 hygiene kits distributed",
+            "comunidades": "3 communities benefited"
+          }
+        },
+        "taller_voluntarios": {
+          "titulo": "Volunteer training workshop",
+          "descripcion_corta": "Intensive training for new volunteers who will join our social programs this quarter.",
+          "descripcion_larga": "The workshop will be held over two consecutive weekends and will include modules on: basic first aid, effective communication with vulnerable communities, safety protocols and ethics in social work. Participants will receive certification endorsed by the Ministry of Health and the National University. Limited spaces, prior registration required.",
+          "logros": {
+            "voluntarios": "25 new volunteers trained",
+            "certificacion": "Certification endorsed by the Ministry of Health"
+          }
+        },
+        "programa_alimentacion": {
+          "titulo": "Nutrition program results",
+          "descripcion_corta": "We present the impressive results of our school feeding program in rural areas.",
+          "descripcion_larga": "During the last semester, our program has benefited more than 1,200 children in 8 rural schools, providing nutritious breakfasts 5 days a week. The results show a 30% improvement in school performance and a 45% reduction in anemia cases among participants.",
+          "logros": {
+            "ninos": "1,200 children benefited",
+            "rendimiento": "30% improvement in school performance",
+            "anemia": "45% reduction in anemia cases"
+          }
+        }
+      }
+    },
+    "eventos": {
+      "titulo": "Events",
+      "proximos": "Upcoming",
+      "pasados": "Past",
+      "programa": "Program",
+      "participantes": "participants",
+      "sin_proximos": "No upcoming events scheduled",
+      "sin_pasados": "No past events recorded",
+      "items": {
+        "jornada_medica": {
+          "titulo": "Community medical day",
+          "descripcion_corta": "Free medical care day for the community with specialties in pediatrics, gynecology and general medicine.",
+          "descripcion_larga": "We will offer completely free general medical, dental and ophthalmological consultations. In addition, we will perform basic laboratory tests (glucose, hemoglobin, blood pressure) and vaccination according to the national schedule. The day will have 25 health professionals and is expected to serve more than 500 people. No prior appointment required, care on a first-come, first-served basis.",
+          "lugar": "Central Park, Main Ave #123",
+          "programa": {
+            "apertura": "08:00 - Opening and registration",
+            "consultas": "09:00 - General medical consultations",
+            "taller": "10:00 - Disease prevention workshop",
+            "medicamentos": "12:00 - Medicine delivery"
+          }
+        },
+        "conferencia_salud": {
+          "titulo": "Public health conference",
+          "descripcion_corta": "Master conference with international experts in public health and health policies.",
+          "descripcion_larga": "We will have the participation of 5 international experts who will discuss current challenges in global public health, strategies to improve health systems in developing countries and the role of community organizations. The event will include discussion panels, Q&A sessions, and networking with speakers. Participation certificates will be awarded.",
+          "lugar": "Municipal Auditorium, 5th floor",
+          "programa": {
+            "registro": "09:00 - Participant registration",
+            "inauguracion": "10:00 - Opening ceremony",
+            "panel": "11:00 - Panel: Global health challenges",
+            "talleres": "14:00 - Simultaneous workshops",
+            "clausura": "17:00 - Closing"
+          }
+        },
+        "feria_emprendimiento": {
+          "titulo": "Social entrepreneurship fair",
+          "descripcion_corta": "Annual event that brings together social entrepreneurs with investors and mentors.",
+          "descripcion_larga": "The fair is the most important meeting point for social entrepreneurship in the region. This year we will have 50 entrepreneur stands, 10 keynote speeches and investment rounds. Participants will be able to present their projects to potential investors and receive specialized mentoring.",
+          "lugar": "Convention Center"
+        },
+        "campana_vacunacion": {
+          "titulo": "Children's vaccination campaign",
+          "descripcion_corta": "Massive vaccination campaign for children under 5 years old.",
+          "descripcion_larga": "In collaboration with the Ministry of Health, we carried out a vaccination day that covered all vaccines in the national schedule for preschool children. The campaign reached more than 800 children in 3 days and had the support of 15 volunteer health professionals.",
+          "lugar": "Urban Health Center"
+        }
+      }
+    }
+  },
+  "transparencia": {
+  "categorias": {
+    "Legal": "Legal",
+    "Financiero": "Financial",
+    "Informativo": "Informative"
+  }
+}
+}
